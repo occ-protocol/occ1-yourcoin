@@ -1,0 +1,10 @@
+[package]
+name = "occ1_yourcoin"
+version = "0.0.1"
+published-at = "0x0"  
+
+[dependencies]
+Sui = "latest_version"  
+
+[addresses]
+occ1 = "0x0" 
